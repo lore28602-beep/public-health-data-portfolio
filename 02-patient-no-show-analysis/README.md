@@ -16,9 +16,10 @@ This project uses a fictional dataset created for educational and practice purpo
 First, I calculated the no-show rate for each month using the number of no-shows and the total number of appointments.
 Then, I calculated the average no-show rate and identified the months with the highest and lowest no-show rates.
 ## Key Findings
-The highest no-show rate occurred in March at 20%
+The highest no-show rate occurred in March at 20%.
 The lowest no-show rate occurred in May at 8%.
 The average no-show rate across the six-month period was 12.5%.
+Finally, I created a line graph to visualize how the no-show rates changed from January through June.
 ## Visualization
 
 ![Patient Appointment No-Show Rates](Figures/patient-no-show-rates.png)
